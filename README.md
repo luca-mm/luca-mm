@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am a graduate student in statistical physics at Freie Universität Berlin. 
+- I’m currently working on light & understandable machine learning models based on Hamiltonian dynamics.
+- I’m currently learning more about science studies and sociology.
